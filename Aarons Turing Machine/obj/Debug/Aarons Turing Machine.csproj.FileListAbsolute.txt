@@ -5,3 +5,10 @@ C:\Users\A\Desktop\Aarons Turing Machine\Aarons Turing Machine\obj\Debug\Aarons 
 C:\Users\A\Desktop\Aarons Turing Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.csproj.CoreCompileInputs.cache
 C:\Users\A\Desktop\Aarons Turing Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.exe
 C:\Users\A\Desktop\Aarons Turing Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.pdb
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\bin\Debug\Aarons Turing Machine.exe.config
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\bin\Debug\Aarons Turing Machine.exe
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\bin\Debug\Aarons Turing Machine.pdb
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.csprojResolveAssemblyReference.cache
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.csproj.CoreCompileInputs.cache
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.exe
+C:\Users\A\Documents\GitHub\Aarons-Turing-Machine\Aarons Turing Machine\obj\Debug\Aarons Turing Machine.pdb
